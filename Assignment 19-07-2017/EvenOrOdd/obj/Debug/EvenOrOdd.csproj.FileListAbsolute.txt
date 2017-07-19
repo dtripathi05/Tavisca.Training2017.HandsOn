@@ -1,0 +1,6 @@
+D:\Deependra\Assignment 19-07-2017\Assignment 19-07-2017\EvenOrOdd\obj\Debug\EvenOrOdd.csprojResolveAssemblyReference.cache
+D:\Deependra\Assignment 19-07-2017\Assignment 19-07-2017\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+D:\Deependra\Assignment 19-07-2017\Assignment 19-07-2017\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+D:\Deependra\Assignment 19-07-2017\Assignment 19-07-2017\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+D:\Deependra\Assignment 19-07-2017\Assignment 19-07-2017\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+D:\Deependra\Assignment 19-07-2017\Assignment 19-07-2017\EvenOrOdd\obj\Debug\EvenOrOdd.pdb
