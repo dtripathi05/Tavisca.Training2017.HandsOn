@@ -1,6 +1,6 @@
 ﻿namespace EvenOrOdd
 {
-    class Check
+    class CheckEvenOdd
     {
         public bool EvenOdd(int Number)
         {

@@ -18,7 +18,7 @@ namespace EvenOrOdd
                 bool isInt = Int32.TryParse(Console.ReadLine(), out inputNumber);
                 if (isInt)
                 {
-                    Check evenOdd = new Check();
+                    CheckEvenOdd evenOdd = new CheckEvenOdd();
                    bool result= evenOdd.EvenOdd(inputNumber);
                     if (result)
                     {

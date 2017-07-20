@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text.RegularExpressions;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,26 +13,19 @@ namespace MailingAddess
         {
             Console.WriteLine("Enter User's Name=");
             string UserName = Console.ReadLine();
+            Console.WriteLine("Enter House Number=");
+            string houseNumber = Console.ReadLine();
+            Console.WriteLine("Enter Street=");
+            string Street = Console.ReadLine();
             Console.WriteLine("Enter City=");
             string City = Console.ReadLine();
-            Console.WriteLine("Enter City=");
-            string Street = Console.ReadLine();
-            Console.WriteLine("Enter Street=");
+            Console.WriteLine("Enter Pin=");
             string pin = Console.ReadLine();
-            Console.WriteLine("Enter pin=");
-            string houseNumber = Console.ReadLine();
             Display show = new Display();
-            show.MailingAddress(UserName, City, Street, pin, houseNumber);
+            string address = show.MailingAddress(UserName, City, Street, pin, houseNumber);
+            Console.WriteLine(address);
+            Console.ReadKey();
 
         }
     }
-
-    public class Display
-    {
-        public string MailingAddress(string UserName, string City, string Street, string pin, string houseNumber)
-        {
-            return (UserName +"\n"+ houseNumber + Street + City + "\nPIN=" + pin);
-        }
-    }
-
 }
