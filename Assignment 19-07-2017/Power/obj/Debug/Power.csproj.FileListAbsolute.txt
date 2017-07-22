@@ -1,0 +1,6 @@
+D:\Deependra\Assignment 19-07-2017\Assignment 19-07-2017\Power\bin\Debug\Power.exe.config
+D:\Deependra\Assignment 19-07-2017\Assignment 19-07-2017\Power\bin\Debug\Power.exe
+D:\Deependra\Assignment 19-07-2017\Assignment 19-07-2017\Power\bin\Debug\Power.pdb
+D:\Deependra\Assignment 19-07-2017\Assignment 19-07-2017\Power\obj\Debug\Power.exe
+D:\Deependra\Assignment 19-07-2017\Assignment 19-07-2017\Power\obj\Debug\Power.pdb
+D:\Deependra\Assignment 19-07-2017\Assignment 19-07-2017\Power\obj\Debug\Power.csprojResolveAssemblyReference.cache

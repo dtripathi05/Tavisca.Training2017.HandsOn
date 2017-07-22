@@ -1,0 +1,5 @@
+D:\Deependra\Assignment 19-07-2017\Assignment 19-07-2017\MathsFunction\bin\Debug\MathsFunction.exe.config
+D:\Deependra\Assignment 19-07-2017\Assignment 19-07-2017\MathsFunction\bin\Debug\MathsFunction.exe
+D:\Deependra\Assignment 19-07-2017\Assignment 19-07-2017\MathsFunction\bin\Debug\MathsFunction.pdb
+D:\Deependra\Assignment 19-07-2017\Assignment 19-07-2017\MathsFunction\obj\Debug\MathsFunction.exe
+D:\Deependra\Assignment 19-07-2017\Assignment 19-07-2017\MathsFunction\obj\Debug\MathsFunction.pdb

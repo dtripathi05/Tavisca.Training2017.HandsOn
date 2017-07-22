@@ -1,0 +1,6 @@
+D:\Deependra\Assignment 19-07-2017\Assignment 19-07-2017\MathematicalFunction\bin\Debug\MathematicalFunction.exe.config
+D:\Deependra\Assignment 19-07-2017\Assignment 19-07-2017\MathematicalFunction\bin\Debug\MathematicalFunction.exe
+D:\Deependra\Assignment 19-07-2017\Assignment 19-07-2017\MathematicalFunction\bin\Debug\MathematicalFunction.pdb
+D:\Deependra\Assignment 19-07-2017\Assignment 19-07-2017\MathematicalFunction\obj\Debug\MathematicalFunction.csprojResolveAssemblyReference.cache
+D:\Deependra\Assignment 19-07-2017\Assignment 19-07-2017\MathematicalFunction\obj\Debug\MathematicalFunction.exe
+D:\Deependra\Assignment 19-07-2017\Assignment 19-07-2017\MathematicalFunction\obj\Debug\MathematicalFunction.pdb
